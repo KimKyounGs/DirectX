@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ruddl\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\directx-11 (1)\\WindowsProject\\",
+  "WorkspaceRootPath": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\directx-11 (1)\\WindowsProject\\WindowsProject\\WindowsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\WindowsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\WindowsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsProject\\WindowsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\WindowsProject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsProject\\WindowsProject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowsProject.h",
+              "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\WindowsProject.h",
+              "RelativeDocumentMoniker": "WindowsProject\\WindowsProject.h",
+              "ToolTip": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\WindowsProject.h",
+              "RelativeToolTip": "WindowsProject\\WindowsProject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-16T15:33:07.792Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WindowsProject.cpp",
-              "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\directx-11 (1)\\WindowsProject\\WindowsProject\\WindowsProject.cpp",
+              "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\WindowsProject.cpp",
               "RelativeDocumentMoniker": "WindowsProject\\WindowsProject.cpp",
-              "ToolTip": "C:\\Users\\ruddl\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\directx-11 (1)\\WindowsProject\\WindowsProject\\WindowsProject.cpp",
+              "ToolTip": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\WindowsProject.cpp",
               "RelativeToolTip": "WindowsProject\\WindowsProject.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA4AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-13T17:18:49.756Z",
               "EditorCaption": ""
