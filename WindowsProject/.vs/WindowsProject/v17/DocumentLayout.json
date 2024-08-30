@@ -3,40 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\systemclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\systemclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\d3dclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\d3dclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\systemclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\systemclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\applicationclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\applicationclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\d3dclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\d3dclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\applicationclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\applicationclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\inputclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\inputclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\inputclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\inputclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\applicationclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\applicationclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,110 +30,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "d3dclass.cpp",
+              "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\d3dclass.cpp",
+              "RelativeDocumentMoniker": "WindowsProject\\d3dclass.cpp",
+              "ToolTip": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\d3dclass.cpp",
+              "RelativeToolTip": "WindowsProject\\d3dclass.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T14:37:48.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "d3dclass.h",
+              "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\d3dclass.h",
+              "RelativeDocumentMoniker": "WindowsProject\\d3dclass.h",
+              "ToolTip": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\d3dclass.h",
+              "RelativeToolTip": "WindowsProject\\d3dclass.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-30T14:37:05.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "applicationclass.cpp",
               "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\applicationclass.cpp",
               "RelativeDocumentMoniker": "WindowsProject\\applicationclass.cpp",
               "ToolTip": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\applicationclass.cpp",
               "RelativeToolTip": "WindowsProject\\applicationclass.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABIAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-25T07:47:41.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "applicationclass.h",
               "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\applicationclass.h",
               "RelativeDocumentMoniker": "WindowsProject\\applicationclass.h",
               "ToolTip": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\applicationclass.h",
               "RelativeToolTip": "WindowsProject\\applicationclass.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-07-25T07:47:14.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "inputclass.cpp",
-              "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\inputclass.cpp",
-              "RelativeDocumentMoniker": "WindowsProject\\inputclass.cpp",
-              "ToolTip": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\inputclass.cpp",
-              "RelativeToolTip": "WindowsProject\\inputclass.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-25T07:44:47.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "inputclass.h",
-              "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\inputclass.h",
-              "RelativeDocumentMoniker": "WindowsProject\\inputclass.h",
-              "ToolTip": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\inputclass.h",
-              "RelativeToolTip": "WindowsProject\\inputclass.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-25T07:44:02.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "systemclass.cpp",
-              "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\systemclass.cpp",
-              "RelativeDocumentMoniker": "WindowsProject\\systemclass.cpp",
-              "ToolTip": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\systemclass.cpp",
-              "RelativeToolTip": "WindowsProject\\systemclass.cpp",
-              "ViewState": "AQIAAMUAAAAAAAAAAAAswNIAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-25T07:37:59.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "systemclass.h",
-              "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\systemclass.h",
-              "RelativeDocumentMoniker": "WindowsProject\\systemclass.h",
-              "ToolTip": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\systemclass.h",
-              "RelativeToolTip": "WindowsProject\\systemclass.h",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAADAAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-25T07:16:24.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "framework.h",
-              "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\framework.h",
-              "RelativeDocumentMoniker": "WindowsProject\\framework.h",
-              "ToolTip": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\framework.h",
-              "RelativeToolTip": "WindowsProject\\framework.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-25T04:42:03.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "targetver.h",
-              "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\targetver.h",
-              "RelativeDocumentMoniker": "WindowsProject\\targetver.h",
-              "ToolTip": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\targetver.h",
-              "RelativeToolTip": "WindowsProject\\targetver.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-25T04:42:01.748Z",
               "EditorCaption": ""
             },
             {
@@ -160,7 +92,7 @@
               "RelativeDocumentMoniker": "WindowsProject\\main.cpp",
               "ToolTip": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\main.cpp",
               "RelativeToolTip": "WindowsProject\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-13T17:18:49.756Z",
               "EditorCaption": ""
