@@ -138,6 +138,7 @@ $(WindowsSdkDir)Include\winrt;$(IncludePath)</IncludePath>
     <ClInclude Include="d3dclass.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="inputclass.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="systemclass.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="WindowsProject.h" />
@@ -152,6 +153,12 @@ $(WindowsSdkDir)Include\winrt;$(IncludePath)</IncludePath>
   <ItemGroup>
     <Image Include="small.ico" />
     <Image Include="WindowsProject.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="WindowsProject.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="color.vs" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
