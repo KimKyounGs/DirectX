@@ -158,6 +158,7 @@ $(WindowsSdkDir)Include\winrt;$(IncludePath)</IncludePath>
     <ResourceCompile Include="WindowsProject.rc" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="color.ps" />
     <None Include="color.vs" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
