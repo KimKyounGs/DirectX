@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\Color.ps||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\Color.ps||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\colorshaderclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\colorshaderclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\color.ps||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\color.ps||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F837CF35-F160-4B1A-BB6A-491711218786}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\color.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "colorshaderclass.h",
+              "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\colorshaderclass.h",
+              "RelativeDocumentMoniker": "WindowsProject\\colorshaderclass.h",
+              "ToolTip": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\colorshaderclass.h",
+              "RelativeToolTip": "WindowsProject\\colorshaderclass.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-13T14:48:19.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "color.ps",
               "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\color.ps",
               "RelativeDocumentMoniker": "WindowsProject\\color.ps",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "color.vs",
               "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\color.vs",
               "RelativeDocumentMoniker": "WindowsProject\\color.vs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "WindowsProject\\color.vs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-07T10:19:13.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T10:19:13.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "d3dclass.cpp",
               "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\d3dclass.cpp",
               "RelativeDocumentMoniker": "WindowsProject\\d3dclass.cpp",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "d3dclass.h",
               "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\d3dclass.h",
               "RelativeDocumentMoniker": "WindowsProject\\d3dclass.h",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "applicationclass.cpp",
               "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\applicationclass.cpp",
               "RelativeDocumentMoniker": "WindowsProject\\applicationclass.cpp",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "applicationclass.h",
               "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\applicationclass.h",
               "RelativeDocumentMoniker": "WindowsProject\\applicationclass.h",
@@ -116,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\ruddl\\OneDrive\\\uBB38\uC11C\\Github\\DirectX\\WindowsProject\\WindowsProject\\main.cpp",
               "RelativeDocumentMoniker": "WindowsProject\\main.cpp",

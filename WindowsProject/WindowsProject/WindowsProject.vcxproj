@@ -135,6 +135,7 @@ $(WindowsSdkDir)Include\winrt;$(IncludePath)</IncludePath>
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="applicationclass.h" />
+    <ClInclude Include="colorshaderclass.h" />
     <ClInclude Include="d3dclass.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="inputclass.h" />
