@@ -1,7 +1,2 @@
-﻿  applicationclass.cpp
-  d3dclass.cpp
-C:\Users\ruddl\OneDrive\문서\Github\DirectX\WindowsProject\WindowsProject\d3dclass.cpp(43,27): warning C4101: 'rasterDesc' :참조되지 않은 지역 변수입니다.
-  main.cpp
-  systemclass.cpp
-  코드를 생성하고 있습니다...
+﻿  colorshaderclass.cpp
   WindowsProject.vcxproj -> C:\Users\ruddl\OneDrive\문서\Github\DirectX\WindowsProject\x64\Debug\WindowsProject.exe

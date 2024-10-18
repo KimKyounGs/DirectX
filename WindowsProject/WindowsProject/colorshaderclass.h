@@ -11,9 +11,9 @@
 #include <d3dcompiler.h>
 #include <directxmath.h>
 #include <fstream>
+
 using namespace DirectX;
 using namespace std;
-
 
 ////////////////////////////////////////////////////////////////////////////////
 // Class name: ColorShaderClass
@@ -21,7 +21,7 @@ using namespace std;
 class ColorShaderClass
 {
 private:
-		struct MatrixBufferType
+	struct MatrixBufferType
 	{
 		XMMATRIX world;
 		XMMATRIX view;

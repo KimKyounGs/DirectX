@@ -13,7 +13,7 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Color">
+    <Filter Include="Engine">
       <UniqueIdentifier>{e7a38029-ff16-4996-b313-53992cedeaee}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -22,9 +22,6 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="targetver.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="WindowsProject.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="systemclass.h">
@@ -45,6 +42,12 @@
     <ClInclude Include="colorshaderclass.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="modelclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="cameraclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -60,6 +63,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="d3dclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="colorshaderclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="modelclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cameraclass.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -78,10 +90,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="color.vs">
-      <Filter>Color</Filter>
+      <Filter>Engine</Filter>
     </None>
     <None Include="color.ps">
-      <Filter>Color</Filter>
+      <Filter>Engine</Filter>
     </None>
   </ItemGroup>
 </Project>
