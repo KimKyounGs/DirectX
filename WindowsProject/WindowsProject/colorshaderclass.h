@@ -4,6 +4,7 @@
 #ifndef _COLORSHADERCLASS_H_
 #define _COLORSHADERCLASS_H_
 
+
 //////////////
 // INCLUDES //
 //////////////
@@ -11,9 +12,9 @@
 #include <d3dcompiler.h>
 #include <directxmath.h>
 #include <fstream>
-
 using namespace DirectX;
 using namespace std;
+
 
 ////////////////////////////////////////////////////////////////////////////////
 // Class name: ColorShaderClass

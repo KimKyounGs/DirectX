@@ -3,6 +3,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 #include "modelclass.h"
 
+
 ModelClass::ModelClass()
 {
 	m_vertexBuffer = 0;
@@ -19,7 +20,8 @@ ModelClass::~ModelClass()
 {
 }
 
-bool ModelClass::Initialize(ID3D11Device * device)
+
+bool ModelClass::Initialize(ID3D11Device* device)
 {
 	bool result;
 
@@ -34,6 +36,7 @@ bool ModelClass::Initialize(ID3D11Device * device)
 	return true;
 }
 
+
 void ModelClass::Shutdown()
 {
 	// Shutdown the vertex and index buffers.
@@ -42,7 +45,8 @@ void ModelClass::Shutdown()
 	return;
 }
 
-void ModelClass::Render(ID3D11DeviceContext * deviceContext)
+
+void ModelClass::Render(ID3D11DeviceContext* deviceContext)
 {
 	// Put the vertex and index buffers on the graphics pipeline to prepare them for drawing.
 	RenderBuffers(deviceContext);
@@ -50,19 +54,22 @@ void ModelClass::Render(ID3D11DeviceContext * deviceContext)
 	return;
 }
 
+
 int ModelClass::GetIndexCount()
 {
 	return m_indexCount;
 }
 
-bool ModelClass::InitializeBuffers(ID3D11Device * device)
+
+bool ModelClass::InitializeBuffers(ID3D11Device* device)
 {
 	VertexType* vertices;
 	unsigned long* indices;
 	D3D11_BUFFER_DESC vertexBufferDesc, indexBufferDesc;
 	D3D11_SUBRESOURCE_DATA vertexData, indexData;
 	HRESULT result;
-		
+
+
 	// Set the number of vertices in the vertex array.
 	m_vertexCount = 3;
 
@@ -148,6 +155,7 @@ bool ModelClass::InitializeBuffers(ID3D11Device * device)
 	return true;
 }
 
+
 void ModelClass::ShutdownBuffers()
 {
 	// Release the index buffer.
@@ -166,6 +174,7 @@ void ModelClass::ShutdownBuffers()
 
 	return;
 }
+
 
 void ModelClass::RenderBuffers(ID3D11DeviceContext* deviceContext)
 {
